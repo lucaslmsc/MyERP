@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>
+CADASTRO DE CLIENTES
+</title>
+</head>
+<body>
+<h2 align= "center">Cadastro de Clientes<h2>
+<hr>
+<hr>
+<form action="id"  method="get">
+ID : <input type="text" value="" >
+Situação cadastral:   
+         <select name="Estado"> 
+         <option value="Ativo"> Ativo</option>
+         <option value="Ativo"> Inativo</option>
+</select>
+<br>
+Nome : <input type="text" value="">
+<br>
+CPF : <input type="text" value="">    RG : <input type="text" value="">  Telefone: <input type="text" value="">
+<br>
+<p>
+Celular: <input type="text" value=""><p>
+Emails : <input type="text" value="">
+
+
+
+
+<p>
+Informacoes complementares:<p><textarea rows="4" cols="40" > </textarea>
+
+
+</body>
+</html>
